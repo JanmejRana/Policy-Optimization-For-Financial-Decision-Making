@@ -17,7 +17,7 @@ The notebook covers the complete journey from raw data to model-ready features, 
 - Data scaling and train-test split
 
 ---
-
+Final Report link : [Report_link](https://drive.google.com/file/d/1oZJbNPka-XnirIvMg-KUwkZiz99pwbyV/view?usp=sharing)
 ## 🎯 Project Goal
 
 **Predict loan default risk** using historical Lending Club loan data to help identify patterns that differentiate between loans that will be fully paid versus those that will default.
@@ -516,7 +516,6 @@ The model effectively identifies defaults while maintaining acceptable false pos
 **⭐ If you find this notebook helpful, please consider giving it a star!**
 
 ---
-Final Report link : [Report_link](https://drive.google.com/file/d/1oZJbNPka-XnirIvMg-KUwkZiz99pwbyV/view?usp=sharing)
 
 ## 📚 References
 
